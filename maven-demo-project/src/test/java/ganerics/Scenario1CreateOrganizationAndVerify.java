@@ -15,6 +15,8 @@ import package_utility.Java_utility;
 import package_utility.Webdriver_Utility;
 
 public class Scenario1CreateOrganizationAndVerify {
+	
+	//I M SMOKE BRANCH
 	public static void main(String[] args) throws Throwable 
 	{
 		File_utility flib = new File_utility();
