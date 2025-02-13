@@ -12,7 +12,7 @@ import package_utility.Excel_utility;
 import package_utility.Java_utility;
 import package_utility.Webdriver_Utility;
 
-public class CreateAndDeleteProduct extends BaseClass {
+public class CreateAndDeleteProductTest extends BaseClass {
 
 	@Test(groups = {"smokeTest","regression"})
 	public void createAndDeleteProduct() throws Throwable 
